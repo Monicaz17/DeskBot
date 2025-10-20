@@ -31,7 +31,7 @@ It listens to your voice commands, automates system tasks, manages your to-do li
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/DeskBot.git
+git clone https://github.com/Monikaz17/DeskBot.git
 cd DeskBot
 
 
@@ -64,5 +64,6 @@ Then try commands like:
 “Show my tasks”
 
 “Take screenshot”
+
 
 “Sleep” or “Stop”
